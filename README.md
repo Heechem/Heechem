@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heechem
 (
-- 🌱 I’m currently learning Front-end and want to jump in to the coding world ( Java script , html css, and after react , and reuby )
+- 🌱 I’m currently learning Front-end and want to jump in to the coding world ( Java script , html css, and after react , and ruby )
 - 💞️ I’m looking to learn from everyone , and if i can help 
 - 📫 How to reach me hichempeter@gmail.com
 
